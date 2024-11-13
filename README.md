@@ -3,6 +3,8 @@
 # 💫 About Me:
  👋 Hi, I’m MiniSkeT OriG, A full-stack developer!! <br> 👀 I learned how to code from YouTube and as you all know when I face a challenge, StackOverFlow is always there to help.<br> 🌱 I’m currently making efforts to master React (JavaScript & Typescript)<br> 💞️ I’m always ready to work with others on creative projects.<br> 😄 Pronouns: I only accept a He/Him.<br> ⚡ Fun fact: I fell in love with coding the first day I met Java.<br> 🚥 I'm already very good with Java, HTML, CSS, JavaScript, PHP<br> 🥷 I can work with MySQL, SQLite, MongoDB, and FirebaseDB databases.<br> 😒 A language that I dislike? Ow Python!! Just because I don't like snakes.<br><br><br><br>
 
+#This is literally my life:
+![my gif](https://github.com/MiniSkeTOriG/MiniSkeTOriG/assets/programmergif.gif)
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/origminisket) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Minisket_OriG) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_sket) 
