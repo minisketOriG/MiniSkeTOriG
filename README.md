@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-👋 Hi, I’m MiniSkeT OriG, A full-stack developer!!<br>👀 I learned how to code from YouTube and as you all know when I face a challenge, StackOverFlow is always there to help.<br>🌱 I’m currently making efforts to master React (JavaScript & Typescript)<br>💞️ I’m always ready to work with others on creative projects.<br>😄 Pronouns: I only accept a He/Him.<br>⚡ Fun fact: I fell in love with coding the first day I met Java.<br>🚥 I'm already very good with Java, HTML, CSS, JavaScript, and PHP<br>🥷 I can work with MySQL, SQLite, MongoDB, and FirebaseDB databases.<br>😒 A language that I dislike? Ow Python!! Just because I don't like snakes.
+👋 Hi, I’m MiniSkeT OriG, A full-stack developer!!<br>👀 I learned how to code from YouTube and as you all know when I face a challenge, StackOverFlow is always there to help.<br>🌱 I’m currently making efforts to master React (JavaScript & Typescript)<br>💞️ I’m always ready to work with others on creative projects.<br>😄 Pronouns: I only accept a He/Him.<br>⚡ Fun fact: I fell in love with coding the first day I met Java.<br>🚥 I'm already very good with Java, Kotlin, HTML, CSS, JavaScript, and PHP<br>🥷 I can work with MySQL, SQLite, PostgreSQL, MongoDB, and FirebaseDB databases.<br>😒 A language that I dislike? Ow Python!! Just because I don't like snakes.
 
 ## 🥷 This is my life:
 <img src="assets/programmergif.gif" width="80%" height="500px" alt="my gif"/>
